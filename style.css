@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color: green; 
+    margin-top: 40px;  
+}
+button{
+    height: 50px;
+    width: 150px;
+    margin-top: 50px;
+    background-color:grey;
+    color:yellow;
+    margin-left: 50px;
+    
+}
+button :hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+#sort{
+    width: 150px;
+    height: 50px;
+    font-size: large;
+}
+#reverse{
+    height: 50px;
+    width: 150px;
+    font-size: large;
+}
+#even{
+    height: 50px;
+    width: 150px;
+    font-size: large;
+}
+#odd{
+    height: 50px;
+    width: 150px;
+    font-size: large;
+}
+
+#min{
+    height: 50px;
+    width: 150px;
+    font-size: large;
+}
+#message{
+    margin: 20px;
+    color: yellow;
+    font-size: large;
+}
